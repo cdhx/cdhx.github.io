@@ -22,7 +22,7 @@ Publication
 - **QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback-based Self-Correction** <br/>
 **Xiang Huang**, Sitao Cheng, Shanshan Huang, Jiayu Shen, Yong Xu, Chaoyun Zhang, Yuzhong Qu <br/> ACL 2024 Oral <br/> [paper](https://arxiv.org/abs/2403.11886) \| [code](https://github.com/cdhx/QueryAgent)  
 
-- **MarkQA: A large scale KBQA dataset with numerical reasoning**
+- **MarkQA: A large scale KBQA dataset with numerical reasoning** <br/> 
 **Xiang Huang**, Sitao Cheng, Yuheng Bao, Shanshan Huang, Yuzhong Qu  <br/> 
 (EMNLP 2023) <br/> 
 [paper](http://arxiv.org/abs/2310.15517) \| [code](https://github.com/cdhx/MarkQA)
