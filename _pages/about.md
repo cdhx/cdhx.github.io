@@ -8,17 +8,17 @@ redirect_from:
 ---
  
 Currently, I am a fourth-year Ph.D. candidate of [Websoft](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=%E4%B8%87%E7%BB%B4%E7%BD%91%E8%BD%AF%E4%BB%B6%E7%A0%94%E7%A9%B6%E7%BB%84) Research Group at [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). 
-I received my B.Sc. degree in June 2020 from [Chongqing University](https://www.cqu.edu.cn/). 
+I received my B.Sc. degree from [Chongqing University](https://www.cqu.edu.cn/) in June 2020. 
 In the same year, I was admitted to study for a Ph.D. degree at Nanjing University under the supervision of Prof. [Yuzhong Qu](http://ws.nju.edu.cn/~yzqu). 
 
-I'm also doing an internship at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/) from July 2024.
+I am interning at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/) starting in July 2024.
 
 Feel free to reach out to me if you’re interested in my research.
 
 Research Interest
 ===
-My past researches focus on Complex Reasoning over Structural Environments such as Knowledge-Based Question Answering(KBQA) and Text2SQL.
-I also have broad interests in Tastk Specific Agent, Auto Alignment, and Instruct-evol.
+My past research focus on Complex Reasoning over Structural Environments including Knowledge-Based Question Answering(KBQA) and Text2SQL.
+I also have broad interests in Task Specific Agent, Auto Alignment, and Instruct-evol.
  
 
 
