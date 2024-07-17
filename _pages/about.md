@@ -11,7 +11,7 @@ Currently, I am a fourth-year Ph.D. candidate of [Websoft](http://ws.nju.edu.cn/
 I received my B.Sc. degree from [Chongqing University](https://www.cqu.edu.cn/) in June 2020. 
 In the same year, I was admitted to study for a Ph.D. degree at Nanjing University under the supervision of Prof. [Yuzhong Qu](http://ws.nju.edu.cn/~yzqu). 
 
-I am interning at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/) starting in July 2024.
+I am also interning at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/) starting in July 2024.
 
 Feel free to reach out to me if you’re interested in my research.
 
