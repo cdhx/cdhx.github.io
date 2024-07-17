@@ -12,7 +12,7 @@ title                    : "Xiang Huang"
 title_separator          : "-"
 name                     : &name "Xiang Huang"
 description              : &description "Nothing"
-url                      : https://cdhx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://github.com/cdhx # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
