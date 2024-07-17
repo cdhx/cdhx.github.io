@@ -31,7 +31,7 @@ Publication
 [paper](http://arxiv.org/abs/2310.15517) \| [code](https://github.com/cdhx/MarkQA)
 
 - **[AAAI'23 Oral] Question Decomposition Tree for Answering Complex Questions over Knowledge Bases** <br/> 
-**Xiang Huang**, Sitao Cheng, Yiheng Shu, Yuheng Bao, Yuzhong Qu
+**Xiang Huang**, Sitao Cheng, Yiheng Shu, Yuheng Bao, Yuzhong Qu  <br/> 
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26519/26291) \| [code](https://github.com/cdhx/QDTQA)
 	
 - **[ACL'24 Findings] Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments** <br/> 
