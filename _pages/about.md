@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me - Xiahung Huang - 黄祥"
+title: "About Me - Xiang Huang"
 author_profile: true
 redirect_from: 
   - /about/
