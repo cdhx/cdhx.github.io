@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
  
-Currently, I am a fourth-year PhD student of [Websoft](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=%E4%B8%87%E7%BB%B4%E7%BD%91%E8%BD%AF%E4%BB%B6%E7%A0%94%E7%A9%B6%E7%BB%84) Research Group at [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). 
+Currently, I am a fourth-year Ph.D. candidate of [Websoft](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=%E4%B8%87%E7%BB%B4%E7%BD%91%E8%BD%AF%E4%BB%B6%E7%A0%94%E7%A9%B6%E7%BB%84) Research Group at [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). 
 I received my B.Sc. degree in June 2020 from [Chongqing University](https://www.cqu.edu.cn/). 
 In the same year, I was admitted to study for a Ph.D. degree at Nanjing University under the supervision of Prof. [Yuzhong Qu](http://ws.nju.edu.cn/~yzqu). 
 
