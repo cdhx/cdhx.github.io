@@ -20,24 +20,31 @@ My current interests include Knowledge Based Question Answering(KBQA), Tastk Spe
 Publication
 ===
 
-QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback-based Self-Correction (ACL 2024 Oral)
-**Xiang Huang**, Sitao Cheng, Shanshan Huang, Jiayu Shen, Yong Xu, Chaoyun Zhang, Yuzhong Qu
-[paper](https://arxiv.org/abs/2403.11886) | [code](https://github.com/cdhx/QueryAgent) 
+- (ACL 2024 Oral)
+**Xiang Huang**, Sitao Cheng, Shanshan Huang, Jiayu Shen, Yong Xu, Chaoyun Zhang, Yuzhong Qu [QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback-based Self-Correction](https://arxiv.org/abs/2403.11886) | [code](https://github.com/cdhx/QueryAgent) 
 
 MarkQA: A large scale KBQA dataset with numerical reasoning (EMNLP 2023)
+
 **Xiang Huang**, Sitao Cheng, Yuheng Bao, Shanshan Huang, Yuzhong Qu
+
 [paper](http://arxiv.org/abs/2310.15517) | [code](https://github.com/cdhx/MarkQA)
 
 Question Decomposition Tree for Answering Complex Questions over Knowledge Bases
+
 **Xiang Huang**, Sitao Cheng, Yiheng Shu, Yuheng Bao, Yuzhong Qu
+
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26519/26291) | [code](https://github.com/cdhx/QDTQA)
 	
 Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments(ACL 2024 Findings)
+
 Sitao Cheng, Ziyuan Zhuang, Yong Xu, Fangkai Yang, Chaoyun Zhang, Xiaoting Qin, **Xiang Huang**, Ling Chen, Qingwei Lin, Dongmei Zhang, Saravan Rajmohan, Qi Zhang
+
 [paper](https://arxiv.org/abs/2403.08593) | [code](https://github.com/sitaocheng/readi)
 
 EDG-Based Question Decomposition for Complex Question Answering over Knowledge Bases(ISWC 2021)
+
 Xixin Hu, Yiheng Shu, **Xiang Huang** & Yuzhong Qu 
+
 [paper](https://link.springer.com/chapter/10.1007/978-3-030-88361-4_8) | [code](https://github.com/HXX97/EDG)
 
 
