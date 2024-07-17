@@ -52,6 +52,11 @@ Awards & Honors
 - National Inspiration Scholarship, Chongqing University
 - Advanced Individuals in Innovation and Entrepreneurship (Top 10 in university), Chongqing University
 
+Education
+===
+- **2020.09 - Now** &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Nanjing University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- &nbsp;Computer science (Ph.D.)
+- **2016.09 - 2020.06**  &nbsp; Chongqing University - &nbsp;Computer science and technology (Bachelor)
+
 Teaching Assistant
 ===
 Discrete Mathematics (2021-2024)
