@@ -55,7 +55,7 @@ Awards & Honors
 Education
 ===
 - **2020.09 - Now** &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Nanjing University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- &nbsp;Computer science (Ph.D.)
-- **2016.09 - 2020.06**  &nbsp; Chongqing University - &nbsp;Computer science and technology (Bachelor)
+- **2016.09 - 2020.06** &nbsp; Chongqing University - &nbsp;Computer science and technology (Bachelor)
 
 Teaching Assistant
 ===
