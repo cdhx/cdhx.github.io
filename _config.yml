@@ -34,7 +34,7 @@ author:
   # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=9yvG_0sAAAAJ"
   # impactstory      : # URL/
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1904-0494"
+  # orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1904-0494"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate     : # URL
@@ -65,13 +65,13 @@ author:
   # steam            : # Username
   # telegram         : # URL
   # tumblr           : # Username
-  twitter          : # Xiang Huang@NJU
+  twitter          :  Xiang Huang@NJU
   # vine             : # Username
   # weibo            : # Username
   # wikipedia        : # Username
   # xing             : # Username
   # youtube          : # Username
-  zhihu            : # https://www.zhihu.com/people/huang-xiang-65-62
+  zhihu            : https://www.zhihu.com/people/huang-xiang-65-62
 
 
 # Site Settings
