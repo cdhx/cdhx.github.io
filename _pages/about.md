@@ -13,7 +13,7 @@ In the same year, I was admitted to study for a Ph.D. degree at Nanjing Universi
 
 I'm also doing an internship at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/) from July 2024.
 
-Feel free to reach out to me if you’re interested in my research.
+Feel free to reach out to me if you’re interested in my research (xianghuang@smail.nju.edu.cn).
 
 Research Interest
 ===
