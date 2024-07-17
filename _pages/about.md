@@ -17,7 +17,7 @@ Feel free to reach out to me if you’re interested in my research.
 
 Research Interest
 ===
-My past researches focus  on complex reasoning over structural environments such as Knowledge-Based Question Answering(KBQA).
+My past researches focus  on complex reasoning over structural environments such as Knowledge-Based Question Answering(KBQA) and Text2SQL.
 I also have broad interests in Tastk Specific Agent, Auto Alignment, and Instruct-evol.
  
 
