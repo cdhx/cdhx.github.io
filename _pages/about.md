@@ -38,7 +38,7 @@ Publication
 Sitao Cheng, Ziyuan Zhuang, Yong Xu, Fangkai Yang, Chaoyun Zhang, Xiaoting Qin, **Xiang Huang**, Ling Chen, Qingwei Lin, Dongmei Zhang, Saravan Rajmohan, Qi Zhang <br/> 
 [paper](https://arxiv.org/abs/2403.08593) \| [code](https://github.com/sitaocheng/readi)
 
-- **[ISWC'21] EDG-Based Question Decomposition for Complex Question Answering over Knowledge Bases**
+- **[ISWC'21] EDG-Based Question Decomposition for Complex Question Answering over Knowledge Bases** <br/> 
 Xixin Hu, Yiheng Shu, **Xiang Huang** & Yuzhong Qu <br/> 
 [paper](https://link.springer.com/chapter/10.1007/978-3-030-88361-4_8) \| [code](https://github.com/HXX97/EDG)  
 
