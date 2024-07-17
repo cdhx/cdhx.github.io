@@ -19,9 +19,8 @@ My current interests include Knowledge Based Question Answering(KBQA), Tastk Spe
 
 Publication
 ===
-
-- (ACL 2024 Oral)
-**Xiang Huang**, Sitao Cheng, Shanshan Huang, Jiayu Shen, Yong Xu, Chaoyun Zhang, Yuzhong Qu [QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback-based Self-Correction](https://arxiv.org/abs/2403.11886) | [code](https://github.com/cdhx/QueryAgent) 
+- QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback-based Self-Correction<br/>
+**Xiang Huang**, Sitao Cheng, Shanshan Huang, Jiayu Shen, Yong Xu, Chaoyun Zhang, Yuzhong Qu <br/> [paper](https://arxiv.org/abs/2403.11886) \| [code](https://github.com/cdhx/QueryAgent) (ACL 2024 Oral)
 
 MarkQA: A large scale KBQA dataset with numerical reasoning (EMNLP 2023)
 
