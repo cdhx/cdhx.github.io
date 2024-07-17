@@ -17,7 +17,8 @@ Feel free to reach out to me if you’re interested in my research.
 
 Research Interest
 ===
-My current interests include Knowledge Based Question Answering(KBQA), Tastk Specific Agent, Auto Alignment, and Instruct-evol.
+My past researches focus  on complex reasoning over structural environments such as Knowledge-Based Question Answering(KBQA).
+I also have broad interests in Tastk Specific Agent, Auto Alignment, and Instruct-evol.
  
 
 
