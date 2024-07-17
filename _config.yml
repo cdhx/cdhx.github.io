@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Xiang Huang"
 title_separator          : "-"
 name                     : &name "Xiang Huang"
-description              : &description "I'm Xiang Huang from Nanjing University. Currently I'm a fourth-year PhD student in Websoft research group, supervised by Professor Yuzhong Qu. My current interests include auto Knowledge Based Question Answering, Tastk specific Agent, auto alignment, and instruct-evol."
+description              : &description "Nothing"
 url                      : https://cdhx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -48,29 +48,29 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # facebook         : # Username
+  # flickr           : # Username
+  # foursquare       : # Username
+  # goodreads        : # Username
+  # google_plus      : # Username
+  # keybase          : # Username
+  # instagram        : # Username
+  # lastfm           : # Username
+  # linkedin         : # Username
+  # mastodon         : # URL
+  # medium           : # URL
+  # pinterest        : # Username
+  # soundcloud       : # Username
+  # steam            : # Username
+  # telegram         : # URL
+  # tumblr           : # Username
   twitter          : # Xiang Huang@NJU
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
+  # vine             : # Username
+  # weibo            : # Username
+  # wikipedia        : # Username
+  # xing             : # Username
+  # youtube          : # Username
   zhihu            : # https://www.zhihu.com/people/huang-xiang-65-62
 
 
