@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
  
-Currently, I am a fourth-year PhD student of [Websoft](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=%E4%B8%87%E7%BB%B4%E7%BD%91%E8%BD%AF%E4%BB%B6%E7%A0%94%E7%A9%B6%E7%BB%84) Research Group at Department of Computer Science and Technology, Nanjing University. I received my B.Sc. degree in June 2016 from Chongqing University. 
+Currently, I am a fourth-year PhD student of [Websoft](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=%E4%B8%87%E7%BB%B4%E7%BD%91%E8%BD%AF%E4%BB%B6%E7%A0%94%E7%A9%B6%E7%BB%84) Research Group at [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). 
+I received my B.Sc. degree in June 2020 from Chongqing University. 
 In the same year, I was admitted to study for a Ph.D. degree at Nanjing University without entrance examination. 
+
 I'm also doing an internship at Tongyi Laboratory, Alibaba Group from July 2024.
+
+Feel free to reach out to me if you’re interested in my research.
 
 Research Interest
 ===
@@ -41,6 +45,14 @@ Xixin Hu, Yiheng Shu, **Xiang Huang** & Yuzhong Qu <br/>
 
 Awards & Honors
 ===
+- Scholarship for Doctoral Excellence, Nanjing University, 2023 
+- Outstanding Graduate Students, Nanjing University, 2023
+- 1st Class Scholarship(Top 2%), Chongqing University, 2018
+- National Inspiration Scholarship, Chongqing University, 2018
+- Advanced Individuals in Innovation and Entrepreneurship (Top 10 in university), Chongqing University, 2018
+- Student Research Training Program Excellent Completion(Top 2 in college), Chongqing University, 2018
 
 Teaching Assistant
 ===
+Discrete Mathematics (2021-2024)
+
