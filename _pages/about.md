@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me - Xiang Huang"
+title: "About Me - Xiang Huang - 黄祥"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ In the same year, I was admitted to study for a Ph.D. degree at Nanjing Universi
 
 I'm also doing an internship at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/) from July 2024.
 
-Feel free to reach out to me if you’re interested in my research (xianghuang@smail.nju.edu.cn).
+Feel free to reach out to me if you’re interested in my research.
 
 Research Interest
 ===
@@ -31,7 +31,7 @@ Publication
 [paper](http://arxiv.org/abs/2310.15517) \| [code](https://github.com/cdhx/MarkQA)
 
 - **[AAAI'23 Oral]Question Decomposition Tree for Answering Complex Questions over Knowledge Bases** <br/> 
-**Xiang Huang**, Sitao Cheng, Yiheng Shu, Yuheng Bao, Yuzhong Qu <br/>  
+**Xiang Huang**, Sitao Cheng, Yiheng Shu, Yuheng Bao, Yuzhong Qu
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26519/26291) \| [code](https://github.com/cdhx/QDTQA)
 	
 - **[ACL'24 Findings]Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments** <br/> 
@@ -45,12 +45,11 @@ Xixin Hu, Yiheng Shu, **Xiang Huang** & Yuzhong Qu <br/>
 
 Awards & Honors
 ===
-- Scholarship for Doctoral Excellence, Nanjing University, 2023 
-- Outstanding Graduate Students, Nanjing University, 2023
-- 1st Class Scholarship(Top 2%), Chongqing University, 2018
-- National Inspiration Scholarship, Chongqing University, 2018
-- Advanced Individuals in Innovation and Entrepreneurship (Top 10 in university), Chongqing University, 2018
-- Student Research Training Program Excellent Completion(Top 2 in college), Chongqing University, 2018
+- Scholarship for Doctoral Excellence, Nanjing University 
+- Outstanding Graduate Students, Nanjing University
+- 1st-Class Scholarship(Top 2%), Chongqing University
+- National Inspiration Scholarship, Chongqing University
+- Advanced Individuals in Innovation and Entrepreneurship (Top 10 in university), Chongqing University
 
 Teaching Assistant
 ===
