@@ -48,7 +48,7 @@ Awards & Honors
 ===
 - Scholarship for Doctoral Excellence, Nanjing University 
 - Outstanding Graduate Students, Nanjing University
-- 1st-Class Scholarship(Top 2%), Chongqing University
+- First-Class Scholarship (Top 2%), Chongqing University
 - National Inspiration Scholarship, Chongqing University
 - Advanced Individuals in Innovation and Entrepreneurship (Top 10 in university), Chongqing University
 
