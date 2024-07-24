@@ -25,7 +25,7 @@ Currently, I primarily focus on Auto Alignment, Instruct-evol, and Task Specific
 Publication
 ===
 - **[ACL'24 Oral] QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback-based Self-Correction** <br/>
-**Keyword**: Agent, Self-correction, Neural-Symbolic Reasoning<br/>
+**Keyword**: Agent, Self-correction, Neural-Symbolic Reasoning, Tool learning<br/>
 **Xiang Huang**, Sitao Cheng, Shanshan Huang, Jiayu Shen, Yong Xu, Chaoyun Zhang, Yuzhong Qu <br/>  [paper](https://arxiv.org/abs/2403.11886) \| [code](https://github.com/cdhx/QueryAgent)  
 
 - **[EMNLP'23] MarkQA: A large scale KBQA dataset with numerical reasoning** <br/> 
