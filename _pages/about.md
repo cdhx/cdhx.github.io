@@ -25,21 +25,26 @@ Currently, I primarily focus on Auto Alignment, Instruct-evol, and Task Specific
 Publication
 ===
 - **[ACL'24 Oral] QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback-based Self-Correction** <br/>
+**Keyword**: Agent, Self-correction, Neural-Symbolic Reasoning<br/>
 **Xiang Huang**, Sitao Cheng, Shanshan Huang, Jiayu Shen, Yong Xu, Chaoyun Zhang, Yuzhong Qu <br/>  [paper](https://arxiv.org/abs/2403.11886) \| [code](https://github.com/cdhx/QueryAgent)  
 
 - **[EMNLP'23] MarkQA: A large scale KBQA dataset with numerical reasoning** <br/> 
+**Keyword**: Numerical reasoning, Code/Program-aided reasoning(PAL, PoT)<br/>
 **Xiang Huang**, Sitao Cheng, Yuheng Bao, Shanshan Huang, Yuzhong Qu  <br/> 
 [paper](http://arxiv.org/abs/2310.15517) \| [code](https://github.com/cdhx/MarkQA)
 
-- **[AAAI'23 Oral] Question Decomposition Tree for Answering Complex Questions over Knowledge Bases** <br/> 
+- **[AAAI'23 Oral] Question Decomposition Tree for Answering Complex Questions over Knowledge Bases** <br/>
+**Keyword**: Question decomposition, Semantic parsing-based KBQA<br/>
 **Xiang Huang**, Sitao Cheng, Yiheng Shu, Yuheng Bao, Yuzhong Qu  <br/> 
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26519/26291) \| [code](https://github.com/cdhx/QDTQA)
 	
-- **[ACL'24 Findings] Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments** <br/> 
+- **[ACL'24 Findings] Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments** <br/>
+**Keyword**: Information retrieval-based KBQA, Self-correction<br/>
 Sitao Cheng, Ziyuan Zhuang, Yong Xu, Fangkai Yang, Chaoyun Zhang, Xiaoting Qin, **Xiang Huang**, Ling Chen, Qingwei Lin, Dongmei Zhang, Saravan Rajmohan, Qi Zhang <br/> 
 [paper](https://arxiv.org/abs/2403.08593) \| [code](https://github.com/sitaocheng/readi)
 
-- **[ISWC'21] EDG-Based Question Decomposition for Complex Question Answering over Knowledge Bases** <br/> 
+- **[ISWC'21] EDG-Based Question Decomposition for Complex Question Answering over Knowledge Bases** <br/>
+**Keyword**: Question decomposition, , Semantic parsing-based KBQA<br/>
 Xixin Hu, Yiheng Shu, **Xiang Huang** & Yuzhong Qu <br/> 
 [paper](https://link.springer.com/chapter/10.1007/978-3-030-88361-4_8) \| [code](https://github.com/HXX97/EDG)  
 
