@@ -7,23 +7,28 @@ redirect_from:
   - /about.html
 ---
  
-Currently, I am a fourth-year Ph.D. candidate of [Websoft](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=%E4%B8%87%E7%BB%B4%E7%BD%91%E8%BD%AF%E4%BB%B6%E7%A0%94%E7%A9%B6%E7%BB%84) Research Group at [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). 
+Currently, I am a fifth-year Ph.D. candidate of [Websoft](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=%E4%B8%87%E7%BB%B4%E7%BD%91%E8%BD%AF%E4%BB%B6%E7%A0%94%E7%A9%B6%E7%BB%84) Research Group at [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). 
 I received my B.Sc. degree from [Chongqing University](https://www.cqu.edu.cn/) in June 2020. 
 In the same year, I was admitted to study for a Ph.D. degree at Nanjing University under the supervision of Prof. [Yuzhong Qu](http://ws.nju.edu.cn/~yzqu). 
+ 
+Starting in July 2024, I am doing a research internship at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/), and I will join as a full-time employee in the fall of 2025. 
 
-I am also interning at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/) starting in July 2024.
-
-Feel free to reach out to me if you’re interested in my research.
+Feel free to reach out to me if you’re interested in my research~
 
 Research Interest
 ===
 My past research focuses on Complex Reasoning over Structural Environments including Knowledge-Based Question Answering(KBQA) and Text2SQL.
-Currently, I primarily focus on Auto Alignment, Instruct-evol, and Task Specific Agent.
- 
 
+Currently, I primarily focus on Auto Alignment, Instruct-Following, and Role play.
+ 
 
 Publication
 ===
+
+- **[ACL'25 Under Review] TARGA: Targeted Synthetic Data Generation for Practical Reasoning over Structured Data** <br/>
+**Keyword**: Synthetic data, ICL-based KBQA, Generalization, Zero-shot QA<br/>
+**Xiang Huang**, Jiayu Shen, Shanshan Huang, Sitao Cheng, Xiaxia Wang, Yuzhong Qu <br/>  [paper](https://arxiv.org/abs/2412.19544) \| [code](https://github.com/cdhx/TARGA)  
+
 - **[ACL'24 Oral] QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback-based Self-Correction** <br/>
 **Keyword**: Agent, Self-correction, Neural-Symbolic Reasoning, Tool learning<br/>
 **Xiang Huang**, Sitao Cheng, Shanshan Huang, Jiayu Shen, Yong Xu, Chaoyun Zhang, Yuzhong Qu <br/>  [paper](https://arxiv.org/abs/2403.11886) \| [code](https://github.com/cdhx/QueryAgent)  
@@ -64,5 +69,5 @@ Education
 
 Teaching Assistant
 ===
-Discrete Mathematics (2021-2024)
+Discrete Mathematics (2021-2025)
 
