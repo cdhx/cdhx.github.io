@@ -17,10 +17,9 @@ Feel free to reach out to me if you’re interested in my research~
 
 Research Interest
 ===
-My past research focuses on Complex Reasoning over Structural Environments including Knowledge-Based Question Answering(KBQA) and Text2SQL.
-
-Currently, I primarily focus on Auto Alignment, Instruct-Following, and Role play.
- 
+1. R1, RL, and Character Model.
+2. Alignment and Instruction Following.
+3. Complex Reasoning over Structural Environments, including Knowledge-Based Question Answering(KBQA) and Text2SQL.
 
 Publication
 ===
