@@ -1,5 +1,4 @@
-
---- 
+---
 permalink: /
 title: "About Me - Xiang Huang - 黄祥"
 author_profile: true
@@ -7,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
- 
+
 Currently, I am a fifth-year Ph.D. candidate of [Websoft](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=%E4%B8%87%E7%BB%B4%E7%BD%91%E8%BD%AF%E4%BB%B6%E7%A0%94%E7%A9%B6%E7%BB%84) Research Group at [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). 
 I received my B.Sc. degree from [Chongqing University](https://www.cqu.edu.cn/) in June 2020. 
 In the same year, I was admitted to study for a Ph.D. degree at Nanjing University under the supervision of Prof. [Yuzhong Qu](http://ws.nju.edu.cn/~yzqu). 
- 
+
 Starting in July 2024, I am doing a research internship at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/), and I will join as a full-time employee in the fall of 2025. 
 
 Feel free to reach out to me if you’re interested in my research~
@@ -42,7 +41,7 @@ Publication
 **Keyword**: Question decomposition, Semantic parsing-based KBQA<br/>
 **Xiang Huang**, Sitao Cheng, Yiheng Shu, Yuheng Bao, Yuzhong Qu  <br/> 
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26519/26291) \| [code](https://github.com/cdhx/QDTQA)
-	
+
 - **[ACL'24 Findings] Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments** <br/>
 **Keyword**: Information retrieval-based KBQA, Self-correction<br/>
 Sitao Cheng, Ziyuan Zhuang, Yong Xu, Fangkai Yang, Chaoyun Zhang, Xiaoting Qin, **Xiang Huang**, Ling Chen, Qingwei Lin, Dongmei Zhang, Saravan Rajmohan, Qi Zhang <br/> 
@@ -76,6 +75,3 @@ Academic Services
 ===
 Reviewer
 - [ACL Rolling review 2025](https://openreview.net/group?id=aclweb.org/ACL/2025)
-
-
-
