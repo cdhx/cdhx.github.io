@@ -27,7 +27,7 @@ Publication
   
 - **[ACL'25 Under Review (Meta 3.5)] Anonymous, Comming soon** <br/>
 **Keyword**: Instruction following, Alignment<br/>
-**Xiang Huang**, Ting-En Lin, Feiteng Fang, Yuchuan Wu, Hangyu Li, Yuzhong Qu, Fei Huang, Yongbin Li  <br/>  [paper](https://arxiv.org/abs/2412.19544) \| [code](https://github.com/cdhx/TARGA)
+**Xiang Huang**, Ting-En Lin, Feiteng Fang, Yuchuan Wu, Hangyu Li, Yuzhong Qu, Fei Huang, Yongbin Li  <br/>   
   
 - **[ACL'25 Under Review (OA 3.67+4)] TARGA: Targeted Synthetic Data Generation for Practical Reasoning over Structured Data** <br/>
 **Keyword**: Synthetic data, ICL-based KBQA, Generalization, Zero-shot QA<br/>
@@ -49,7 +49,7 @@ Publication
 
 - **[ACL'25 Under Review] Anonymous, Comming soon** <br/>
 **Keyword**: Role Plaing, Alignment<br/>
-Feiteng Fang, Ting-En Lin, Yuchuan Wu, Xiong Liu, Dingwei Chen, Jing Ye, Ziqiang Liu, **Xiang Huang**, Haonan Zhang, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li  <br/>  [paper](https://arxiv.org/abs/2412.19544) \| [code](https://github.com/cdhx/TARGA)
+Feiteng Fang, Ting-En Lin, Yuchuan Wu, Xiong Liu, Dingwei Chen, Jing Ye, Ziqiang Liu, **Xiang Huang**, Haonan Zhang, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li  <br/>  
 
 - **[ACL'24 Findings] Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments** <br/>
 **Keyword**: Information retrieval-based KBQA, Self-correction<br/>
@@ -63,7 +63,7 @@ Xixin Hu, Yiheng Shu, **Xiang Huang** & Yuzhong Qu <br/>
 
 - **[UIC'19] Cnnloc: Deep-learning based indoor localization with wifi fingerprinting** <br/>
 **Keyword**: Question decomposition, Semantic parsing-based KBQA<br/>
-Xixin Hu, Yiheng Shu, **Xiang Huang** & Yuzhong Qu <br/> 
+Xudong Song, Xiaochen Fan, Xiangjian He, Chaocan Xiang, Qianwen Ye, **Xiang Huang**, Gengfa Fang, Liming Luke Chen, Jing Qin, Zumin Wang <br/> 
 [paper](https://link.springer.com/chapter/10.1007/978-3-030-88361-4_8) \| [code](https://github.com/HXX97/EDG)
 
 
