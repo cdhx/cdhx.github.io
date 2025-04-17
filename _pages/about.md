@@ -24,7 +24,12 @@ Research Interest
 Publication
 ===
 
-- **[ACL'25 Under Review] TARGA: Targeted Synthetic Data Generation for Practical Reasoning over Structured Data** <br/>
+  
+- **[ACL'25 Under Review (Meta 3.5)] Anonymous, Comming soon** <br/>
+**Keyword**: Instruction following, Alignment<br/>
+**Xiang Huang**, Ting-En Lin, Feiteng Fang, Yuchuan Wu, Hangyu Li, Yuzhong Qu, Fei Huang, Yongbin Li  <br/>  [paper](https://arxiv.org/abs/2412.19544) \| [code](https://github.com/cdhx/TARGA)
+  
+- **[ACL'25 Under Review (OA 3.67+4)] TARGA: Targeted Synthetic Data Generation for Practical Reasoning over Structured Data** <br/>
 **Keyword**: Synthetic data, ICL-based KBQA, Generalization, Zero-shot QA<br/>
 **Xiang Huang**, Jiayu Shen, Shanshan Huang, Sitao Cheng, Xiaxia Wang, Yuzhong Qu <br/>  [paper](https://arxiv.org/abs/2412.19544) \| [code](https://github.com/cdhx/TARGA)  
 
@@ -42,6 +47,10 @@ Publication
 **Xiang Huang**, Sitao Cheng, Yiheng Shu, Yuheng Bao, Yuzhong Qu  <br/> 
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26519/26291) \| [code](https://github.com/cdhx/QDTQA)
 
+- **[ACL'25 Under Review] Anonymous, Comming soon** <br/>
+**Keyword**: Role Plaing, Alignment<br/>
+Feiteng Fang, Ting-En Lin, Yuchuan Wu, Xiong Liu, Dingwei Chen, Jing Ye, Ziqiang Liu, **Xiang Huang**, Haonan Zhang, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li  <br/>  [paper](https://arxiv.org/abs/2412.19544) \| [code](https://github.com/cdhx/TARGA)
+
 - **[ACL'24 Findings] Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments** <br/>
 **Keyword**: Information retrieval-based KBQA, Self-correction<br/>
 Sitao Cheng, Ziyuan Zhuang, Yong Xu, Fangkai Yang, Chaoyun Zhang, Xiaoting Qin, **Xiang Huang**, Ling Chen, Qingwei Lin, Dongmei Zhang, Saravan Rajmohan, Qi Zhang <br/> 
@@ -50,7 +59,14 @@ Sitao Cheng, Ziyuan Zhuang, Yong Xu, Fangkai Yang, Chaoyun Zhang, Xiaoting Qin, 
 - **[ISWC'21] EDG-Based Question Decomposition for Complex Question Answering over Knowledge Bases** <br/>
 **Keyword**: Question decomposition, Semantic parsing-based KBQA<br/>
 Xixin Hu, Yiheng Shu, **Xiang Huang** & Yuzhong Qu <br/> 
-[paper](https://link.springer.com/chapter/10.1007/978-3-030-88361-4_8) \| [code](https://github.com/HXX97/EDG)  
+[paper](https://link.springer.com/chapter/10.1007/978-3-030-88361-4_8) \| [code](https://github.com/HXX97/EDG)
+
+- **[UIC'19] Cnnloc: Deep-learning based indoor localization with wifi fingerprinting** <br/>
+**Keyword**: Question decomposition, Semantic parsing-based KBQA<br/>
+Xixin Hu, Yiheng Shu, **Xiang Huang** & Yuzhong Qu <br/> 
+[paper](https://link.springer.com/chapter/10.1007/978-3-030-88361-4_8) \| [code](https://github.com/HXX97/EDG)
+
+
 
 
 Awards & Honors
