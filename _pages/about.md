@@ -24,6 +24,7 @@ Research Interest
 Publication
 ===
 
+## First Author
   
 - **[ACL'25 Under Review (Meta 3.5)] Anonymous, Comming soon** <br/>
 **Keyword**: Instruction following, Alignment<br/>
@@ -46,6 +47,8 @@ Publication
 **Keyword**: Question decomposition, Semantic parsing-based KBQA<br/>
 **Xiang Huang**, Sitao Cheng, Yiheng Shu, Yuheng Bao, Yuzhong Qu  <br/> 
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26519/26291) \| [code](https://github.com/cdhx/QDTQA)
+
+## Participants
 
 - **[ACL'25 Under Review] Anonymous, Comming soon** <br/>
 **Keyword**: Role Plaing, Alignment<br/>
