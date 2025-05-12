@@ -102,3 +102,4 @@ Academic Services
 ===
 **Reviewer**
 - [ACL Rolling review 2025](https://openreview.net/group?id=aclweb.org/ACL/2025)
+- [EMNLP Rolling review 2025](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/May/Reviewers&referrer=%5BHomepage%5D(%2F)#assigned-submissions)
