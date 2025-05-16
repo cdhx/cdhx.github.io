@@ -26,11 +26,11 @@ Publication
 
 ## First Author
   
-- **[ACL'25 Under Review (Meta 3.5)] Anonymous, Comming soon** <br/>
+- **[ACL'25 Findings] Reverse Preference Optimization for Complex Instruction Following** <br/>
 **Keyword**: Instruction following, Alignment<br/>
 **Xiang Huang**, Ting-En Lin, Feiteng Fang, Yuchuan Wu, Hangyu Li, Yuzhong Qu, Fei Huang, Yongbin Li  <br/>   
   
-- **[ACL'25 Under Review (OA 3.67+4)] TARGA: Targeted Synthetic Data Generation for Practical Reasoning over Structured Data** <br/>
+- **[ACL'25] TARGA: Targeted Synthetic Data Generation for Practical Reasoning over Structured Data** <br/>
 **Keyword**: Synthetic data, ICL-based KBQA, Generalization, Zero-shot QA<br/>
 **Xiang Huang**, Jiayu Shen, Shanshan Huang, Sitao Cheng, Xiaxia Wang, Yuzhong Qu <br/>  [paper](https://arxiv.org/abs/2412.19544) \| [code](https://github.com/cdhx/TARGA)  
 
