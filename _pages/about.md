@@ -58,10 +58,6 @@ Feiteng Fang, Ting-En Lin, Yuchuan Wu, Xiong Liu, Dingwei Chen, Jing Ye, Ziqiang
 **Keyword**: Social Intelligence, R1<br/>
 Guiyang Hou, Gao Xing, Yuchuan Wu, **Xiang Huang**, Zhe Zheng, Yongliang Shen, Wenqi Zhang, Jialu Du, Fei Huang, Yongbin Li, Weiming Lu <br/>  
 
-- **[ACL'25 Under Review] Anonymous, Comming soon** <br/>
-**Keyword**: Role Plaing, Alignment<br/>
-Feiteng Fang, Ting-En Lin, Yuchuan Wu, Xiong Liu, Dingwei Chen, Jing Ye, Ziqiang Liu, **Xiang Huang**, Haonan Zhang, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li  <br/>  
-
 - **[ACL'24 Findings] Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments** <br/>
 **Keyword**: Information retrieval-based KBQA, Self-correction<br/>
 Sitao Cheng, Ziyuan Zhuang, Yong Xu, Fangkai Yang, Chaoyun Zhang, Xiaoting Qin, **Xiang Huang**, Ling Chen, Qingwei Lin, Dongmei Zhang, Saravan Rajmohan, Qi Zhang <br/> 
