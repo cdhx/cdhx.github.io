@@ -52,7 +52,7 @@ Publication
 
 - **[EMNLP'25 Under Review] Anonymous, Comming soon** <br/>
 **Keyword**:Character Model, Reward Model<br/>
-Feiteng Fang, Ting-En Lin, Yuchuan Wu, Xiong Liu, Dingwei Chen, Jing Ye, Ziqiang Liu, **Xiang Huang**, Haonan Zhang, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li <br/>
+Feiteng Fang, Ting-En Lin, Yuchuan Wu, Xiong Liu, **Xiang Huang**, Dingwei Chen, Jing Ye, Ziqiang Liu, Haonan Zhang, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li <br/>
 
 - **[NIPS'25 Under Review] Anonymous, Comming soon** <br/>
 **Keyword**: Social Intelligence, R1<br/>
