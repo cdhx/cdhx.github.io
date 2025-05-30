@@ -28,7 +28,7 @@ Publication
   
 - **[ACL'25 Findings] Reverse Preference Optimization for Complex Instruction Following** <br/>
 **Keyword**: Instruction following, Alignment<br/>
-**Xiang Huang**, Ting-En Lin, Feiteng Fang, Yuchuan Wu, Hangyu Li, Yuzhong Qu, Fei Huang, Yongbin Li  <br/>   
+**Xiang Huang**, Ting-En Lin, Feiteng Fang, Yuchuan Wu, Hangyu Li, Yuzhong Qu, Fei Huang, Yongbin Li  <br/>   [paper](https://arxiv.org/abs/2505.22172) \| [code](https://github.com/cdhx/ACL-2025-RPO)
   
 - **[ACL'25] TARGA: Targeted Synthetic Data Generation for Practical Reasoning over Structured Data** <br/>
 **Keyword**: Synthetic data, ICL-based KBQA, Generalization, Zero-shot QA<br/>
