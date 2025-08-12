@@ -50,9 +50,13 @@ Publication
 
 ## Participants
 
-- **[EMNLP'25 Under Review] Anonymous, Comming soon** <br/>
+- **[AAAI'26 Under Review] Anonymous, Comming soon** <br/>
 **Keyword**:Character Model, Reward Model<br/>
-Feiteng Fang, Ting-En Lin, Yuchuan Wu, Xiong Liu, **Xiang Huang**, Dingwei Chen, Jing Ye, Ziqiang Liu, Haonan Zhang, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li <br/>
+Feiteng Fang, Dingwei Chen, **Xiang Huang**, Ting-En Lin, Yuchuan Wu, Xiong Liu, Jing Ye, Ziqiang Liu, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li <br/>
+
+- **[AAAI'26 Under Review] Anonymous, Comming soon** <br/>
+**Keyword**:Egocentric videos, Multi-world, Contrastive Reinforcement Learning, Theory of Mindl<br/>
+Guiyang Hou, Yihui Fu, Chen Wu, **Xiang Huang**, Zhe Zheng, Wenqi Zhang, Yongliang Shen, Weiming Lu <br/>
 
 - **[NIPS'25 Under Review] Anonymous, Comming soon** <br/>
 **Keyword**: Social Intelligence, R1<br/>
@@ -97,5 +101,6 @@ Discrete Mathematics (2021-2025)
 Academic Services
 ===
 **Reviewer**
+- [AAAI 2026](https://openreview.net/group?id=AAAI.org/2026/Conference/Program_Committee&referrer=%5BHomepage%5D(%2F))
 - [ACL Rolling review 2025](https://openreview.net/group?id=aclweb.org/ACL/2025)
 - [EMNLP Rolling review 2025](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/May/Reviewers&referrer=%5BHomepage%5D(%2F)#assigned-submissions)
