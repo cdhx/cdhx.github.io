@@ -55,7 +55,7 @@ Publication
 Feiteng Fang, Dingwei Chen, **Xiang Huang**, Ting-En Lin, Yuchuan Wu, Xiong Liu, Jing Ye, Ziqiang Liu, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li <br/>
 
 - **[AAAI'26 Under Review] Anonymous, Comming soon** <br/>
-**Keyword**:Egocentric videos, Multi-world, Contrastive Reinforcement Learning, Theory of Mindl<br/>
+**Keyword**:Egocentric videos, Contrastive Reinforcement Learning, Theory of Mind<br/>
 Guiyang Hou, Yihui Fu, Chen Wu, **Xiang Huang**, Zhe Zheng, Wenqi Zhang, Yongliang Shen, Weiming Lu <br/>
 
 - **[NIPS'25 Under Review] Anonymous, Comming soon** <br/>
