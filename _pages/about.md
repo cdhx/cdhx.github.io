@@ -50,17 +50,17 @@ Publication
 
 ## Participants
 
-- **[AAAI'26 Under Review] Anonymous, Comming soon** <br/>
-**Keyword**:Character Model, Reward Model<br/>
-Feiteng Fang, Dingwei Chen, **Xiang Huang**, Ting-En Lin, Yuchuan Wu, Xiong Liu, Jing Ye, Ziqiang Liu, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li <br/>
-
-- **[AAAI'26 Under Review] Anonymous, Comming soon** <br/>
+- **[AAAI'26 Oral]** Reality vs Counterfactual: Multi-World Contrastive Reinforcement Learning for Enhancing MLLM's Theory of Mind in Egocentric Videos <br/>
 **Keyword**:Egocentric videos, Contrastive Reinforcement Learning, Theory of Mind<br/>
 Guiyang Hou, Yihui Fu, Chen Wu, **Xiang Huang**, Zhe Zheng, Wenqi Zhang, Yongliang Shen, Weiming Lu <br/>
 
-- **[NIPS'25 Under Review] Anonymous, Comming soon** <br/>
+- (arxiv) TimeHC-RL: Temporal-aware Hierarchical Cognitive Reinforcement Learning for Enhancing LLMs’ Social Intelligence <br/> 
 **Keyword**: Social Intelligence, R1<br/>
 Guiyang Hou, Gao Xing, Yuchuan Wu, **Xiang Huang**, Zhe Zheng, Yongliang Shen, Wenqi Zhang, Jialu Du, Fei Huang, Yongbin Li, Weiming Lu <br/>  
+
+- (arxiv) Beyond Pairwise Preferences: Modeling Subjective Rewards with Act Adaptive Margins <br/>
+**Keyword**:Character Model, Reward Model<br/>
+Feiteng Fang, Dingwei Chen, **Xiang Huang**, Ting-En Lin, Yuchuan Wu, Xiong Liu, Jing Ye, Ziqiang Liu, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li <br/>
 
 - **[ACL'24 Findings] Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments** <br/>
 **Keyword**: Information retrieval-based KBQA, Self-correction<br/>
