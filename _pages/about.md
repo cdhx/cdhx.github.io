@@ -7,19 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a fifth-year Ph.D. candidate of [Websoft](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=%E4%B8%87%E7%BB%B4%E7%BD%91%E8%BD%AF%E4%BB%B6%E7%A0%94%E7%A9%B6%E7%BB%84) Research Group at [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). 
-I received my B.Sc. degree from [Chongqing University](https://www.cqu.edu.cn/) in June 2020. 
-In the same year, I was admitted to study for a Ph.D. degree at Nanjing University under the supervision of Prof. [Yuzhong Qu](http://ws.nju.edu.cn/~yzqu). 
+Currently, I am a researcher in the Qwen Character Team. I received my Ph.D. degree in 2025, at Nanjing University [Websoft](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=%E4%B8%87%E7%BB%B4%E7%BD%91%E8%BD%AF%E4%BB%B6%E7%A0%94%E7%A9%B6%E7%BB%84) Research Group under the supervision of Prof. [Yuzhong Qu](http://ws.nju.edu.cn/~yzqu). 
+Before that, I received my B.Sc. degree from [Chongqing University](https://www.cqu.edu.cn/) in June 2020. 
 
-Starting in July 2024, I am doing a research internship at [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/), and I will join as a full-time employee in the fall of 2025. 
 
 Feel free to reach out to me if you’re interested in my research~
 
 Research Interest
 ===
-1. R1, RL, and Character Model.
-2. Alignment and Instruction Following.
-3. Complex Reasoning over Structural Environments, including Knowledge-Based Question Answering(KBQA) and Text2SQL.
+1. Character Model and AI Creative.
+2. Test time training and Continual Learning.
+3. Complex Reasoning over Structural Environments (Agent).
 
 Publication
 ===
@@ -88,10 +86,14 @@ Awards & Honors
 - National Inspiration Scholarship, Chongqing University
 - Advanced Individuals in Innovation and Entrepreneurship (Top 10 in university), Chongqing University
 
-Education
+Education 
 ===
 - **2020.09 - Now** &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Nanjing University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- &nbsp;Computer science (Ph.D.)
 - **2016.09 - 2020.06** &nbsp; Chongqing University - &nbsp;Computer science and technology (Bachelor)
+
+Intership 
+===
+- 2024.07 - 2025.09 [Tongyi Laboratory, Alibaba Group](https://tongyi.aliyun.com/)
 
 Teaching Assistant
 ===
