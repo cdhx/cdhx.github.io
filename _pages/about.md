@@ -15,7 +15,7 @@ Feel free to reach out to me if you’re interested in my research~
 
 Research Interest
 ===
-1. Character Model and AI Creative.
+1. Character Model.
 2. Test time training and Continual Learning.
 3. Complex Reasoning over Structural Environments (Agent).
 
