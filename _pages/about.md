@@ -16,8 +16,8 @@ Feel free to reach out to me if you’re interested in my research~
 Research Interest
 ===
 1. Character Model.
-2. Test time training and Continual Learning.
-3. Complex Reasoning over Structural Environments (Agent).
+2. Agent evolution.
+3. Test time training and Continual Learning.
 
 Publication
 ===
@@ -48,6 +48,14 @@ Publication
 
 ## Participants
 
+- **[ACL'26]** Act-Adaptive Margin: Dynamically Calibrating Reward Models for Subjective Ambiguity <br/>
+**Keyword**:Character Model, Reward Model<br/>
+Feiteng Fang, Dingwei Chen, **Xiang Huang**, Ting-En Lin, Yuchuan Wu, Xiong Liu, Jing Ye, Ziqiang Liu, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li <br/>
+
+- **[ACL'26 Findings]** ToM-Synth: Scaling Robust Theory of Mind in LLMs via 6,912 Structured Social Units
+**Keyword**: Theory-of-Mind, Synthetic data<br/>
+Guiyang Hou, **Xiang Huang**, Shangke Lyu, Yuchuan Wu, Weiyao Luo, Xinyu Mei, Yongliang Shen, Yongbin Li, Weiming Lu
+
 - **[AAAI'26 Oral]** Reality vs Counterfactual: Multi-World Contrastive Reinforcement Learning for Enhancing MLLM's Theory of Mind in Egocentric Videos <br/>
 **Keyword**:Egocentric videos, Contrastive Reinforcement Learning, Theory of Mind<br/>
 Guiyang Hou, Yihui Fu, Chen Wu, **Xiang Huang**, Zhe Zheng, Wenqi Zhang, Yongliang Shen, Weiming Lu <br/>
@@ -55,10 +63,6 @@ Guiyang Hou, Yihui Fu, Chen Wu, **Xiang Huang**, Zhe Zheng, Wenqi Zhang, Yonglia
 - (arxiv) TimeHC-RL: Temporal-aware Hierarchical Cognitive Reinforcement Learning for Enhancing LLMs’ Social Intelligence <br/> 
 **Keyword**: Social Intelligence, R1<br/>
 Guiyang Hou, Gao Xing, Yuchuan Wu, **Xiang Huang**, Zhe Zheng, Yongliang Shen, Wenqi Zhang, Jialu Du, Fei Huang, Yongbin Li, Weiming Lu <br/>  
-
-- (arxiv) Beyond Pairwise Preferences: Modeling Subjective Rewards with Act Adaptive Margins <br/>
-**Keyword**:Character Model, Reward Model<br/>
-Feiteng Fang, Dingwei Chen, **Xiang Huang**, Ting-En Lin, Yuchuan Wu, Xiong Liu, Jing Ye, Ziqiang Liu, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li <br/>
 
 - **[ACL'24 Findings] Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments** <br/>
 **Keyword**: Information retrieval-based KBQA, Self-correction<br/>
@@ -106,3 +110,4 @@ Academic Services
 - [AAAI 2026](https://openreview.net/group?id=AAAI.org/2026/Conference/Program_Committee&referrer=%5BHomepage%5D(%2F))
 - [ACL Rolling review 2025](https://openreview.net/group?id=aclweb.org/ACL/2025)
 - [EMNLP Rolling review 2025](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/May/Reviewers&referrer=%5BHomepage%5D(%2F)#assigned-submissions)
+Test time training and Continual Learning.
