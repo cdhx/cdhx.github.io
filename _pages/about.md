@@ -49,10 +49,10 @@ Publication
 ## Participants
 
 - **[ACL'26]** Act-Adaptive Margin: Dynamically Calibrating Reward Models for Subjective Ambiguity <br/>
-**Keyword**:Character Model, Reward Model<br/>
+**Keyword**: Character Model, Reward Model<br/>
 Feiteng Fang, Dingwei Chen, **Xiang Huang**, Ting-En Lin, Yuchuan Wu, Xiong Liu, Jing Ye, Ziqiang Liu, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Fei Huang, Yongbin Li <br/>
 
-- **[ACL'26 Findings]** ToM-Synth: Scaling Robust Theory of Mind in LLMs via 6,912 Structured Social Units
+- **[ACL'26 Findings]** ToM-Synth: Scaling Robust Theory of Mind in LLMs via 6,912 Structured Social Units<br/>
 **Keyword**: Theory-of-Mind, Synthetic data<br/>
 Guiyang Hou, **Xiang Huang**, Shangke Lyu, Yuchuan Wu, Weiyao Luo, Xinyu Mei, Yongliang Shen, Yongbin Li, Weiming Lu
 
